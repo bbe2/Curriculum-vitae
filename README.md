@@ -1,4 +1,4 @@
-# Curriculum-vitae - VIEW IN RAW FOR FORMATTED VERSION
+# Curriculum-vitae
 Professional Achievements and Skill Summary
 Brian Hogan, MS
 Greater Boston Area
