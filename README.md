@@ -29,35 +29,35 @@ o	Convolutions neural nets (CNN + ANN) and deep learning image classification in
 Editor | Accdon, LLC | https://www.accdon.com/ | Waltham, MA 2020 -                                                        
 o	Edit and prepare scientific manuscripts for peer-review journal publication.  
 
-Academic Research Advisor | Tutor Matching Service: tutormatchingservice.com | Boston, MA    2017 -
-o	Move graduate students to the next level in text and data mining, survey design, and train-test methods.
-o	Develop students to transform papers from “meh” to “mesmerizing” with logic, grammar, and style edits.
-o	Active coaching and support of marginalized youth to obtain GED accreditation.
+Academic Research Advisor | Tutor Matching Service: tutormatchingservice.com | Boston, MA    2017 -  
+o	Move graduate students to the next level in text and data mining, survey design, and train-test methods.  
+o	Develop students to transform papers from “meh” to “mesmerizing” with logic, grammar, and style edits.  
+o	Active coaching and support of marginalized youth to obtain GED accreditation.  
 
-Project Manager & Consultant | ProModel | Allentown, PA                                                              2001 – 2016
-o	Led customers in strategy and development of analysis work to provide substantial operation improvement.
-o	Designed numerous discrete-event environments, data pulls, dashboards, and application integration.
-o	Focused on productivity enhancements, demand vs. capacity, resource forecasting, capital budget justification (>75M), 
-  supply-chain modifications, and ensuring robustness through scenario & A|B testing.
-o	Discovered (with another) patient vector characterizing enrollment by study intervention (SAS, factor anal.).
-o	Developed analytics, architecture, and methods facilitating FTE hire /no hire asset profiles (log. regression).
-o	Developed predictive models and methods for program mgmt (regression, discrete event, SQL), NASA.
-o	Generated substantial quantity of quality white papers, training courses, and professional consulting reports.
-o	Supply chain optimization of research models ensuring supply, reduced payments, and colony reduction.
-o	Replicated breeding characteristics of 200+ GEMM colony to reduce cost, ensure space, and husbandry.
-o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product, SIG.
+Project Manager & Consultant | ProModel | Allentown, PA    2001 – 2016  
+o	Led customers in strategy and development of analysis work to provide substantial operation improvement.  
+o	Designed numerous discrete-event environments, data pulls, dashboards, and application integration.  
+o	Focused on productivity enhancements, demand vs. capacity, resource forecasting, capital budget justification (>75M),  
+  supply-chain modifications, and ensuring robustness through scenario & A|B testing.  
+o	Discovered (with another) patient vector characterizing enrollment by study intervention (SAS, factor anal.).  
+o	Developed analytics, architecture, and methods facilitating FTE hire /no hire asset profiles (log. regression).  
+o	Developed predictive models and methods for program mgmt (regression, discrete event, SQL), NASA.  
+o	Generated substantial quantity of quality white papers, training courses, and professional consulting reports.  
+o	Supply chain optimization of research models ensuring supply, reduced payments, and colony reduction.  
+o	Replicated breeding characteristics of 200+ GEMM colony to reduce cost, ensure space, and husbandry.  
+o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product, SIG.  
 
-TECHNICAL SKILLS
-o	Bayesian Analysis, LDA, Machine Learning: random forest, CNN, SVMs, Adaline, structured probabilistic, 
-(un)structured text mining, custom NLP features, systematic literature review, AWS badge work.
-o	ggplot2, mongoDB, SQL, plotly, Pandas, Python, R, SMSS, Tableau, TensorFlow, SciKit, Visual Studio.
-o	Rapid systematic literature across both technical and qualitative material coalesced into consumables.
+TECHNICAL SKILLS  
+o	Bayesian Analysis, LDA, Machine Learning: random forest, CNN, SVMs, Adaline, structured probabilistic,   
+(un)structured text mining, custom NLP features, systematic literature review, AWS badge work.  
+o	ggplot2, mongoDB, SQL, plotly, Pandas, Python, R, SMSS, Tableau, TensorFlow, SciKit, Visual Studio.  
+o	Rapid systematic literature across both technical and qualitative material coalesced into consumables.  
 
-EDUCATION
-Master’s of Science: Applied Data Science, Syracuse University | Syracuse, NY | 3rd Quarter 2020 
-Certificate: Data Science, Johns Hopkins University | Baltimore, MD | 2016
-Graduate Certificate in Business Administration | Harvard Extension School | Cambridge, MA
-Bachelor of Science: Business Administration & Psychology | Babson College | Wellesley, MA
-
+EDUCATION  
+Master’s of Science: Applied Data Science, Syracuse University | Syracuse, NY | 3rd Quarter 2020   
+Certificate: Data Science, Johns Hopkins University | Baltimore, MD | 2016  
+Graduate Certificate in Business Administration | Harvard Extension School | Cambridge, MA  
+Bachelor of Science:  Business Administration | Babson College | Wellesley, MA  
+                      Psychology | Wellesley College (inter-college degree program)
 EXTRACURRICULAR
  STEM Tutor, Amazon Mechanical Turking, Golden Key International Honour Society
