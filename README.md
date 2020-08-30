@@ -4,12 +4,11 @@ Brian Hogan, MS
 Greater Boston Area
 bphogan@syracuse.edu | https://www.linkedin.com/in/bbe/ | https://github.com/bbe2/
 
-PROFILE
-o	Adept with data value, extrapolation, choosing algorithms, collaboration, and model integration.  
-o	Integrates data modeling solutions with record of collaborative problem solving and innovation.  
-o	Text capabilities facilitating research, synthesizing viewpoints, and generating actionable recommendations.  
+PROFILE  
 o	Deep experience advancing infrastructure through quantitative and qualitative process engineering.  
-o	Improving next generation of scientists through scientific editing and university teaching.  
+o	Rapid systematic literature review across both technical and qualitative material coalesced into consumables.  
+o	Extensive experience building content, training courses, and collaborating with subject experts on focus.  
+o	Actively working in AWS building proficiency and pathways, e.g. machine learning w SageMaker.  
 
 PROFESSIONAL EXPERIENCE  
 Graduate Student | Syracuse University | Syracuse, NY 2018-9/20  
