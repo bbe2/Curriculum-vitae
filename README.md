@@ -45,17 +45,20 @@ Academic Research Advisor, Self-employed                                        
   o	Improve student’s logic ability by building confidence in their programming and data science skills  
 
 Project Manager & Consultant | ProModel | Allentown, PA    2001 – 2016  
-o	Led customers in strategy and development of analysis work to provide substantial operation improvement.  
+o	Led pharma, manufacturing, and defense customers in strategy and analysis of data science solutions.  
 o	Designed numerous discrete-event environments, data pulls, dashboards, and application integration.  
 o	Focused on productivity enhancements, demand vs. capacity, resource forecasting, capital budget justification (>75M),  
-  supply-chain modifications, and ensuring robustness through scenario & A|B testing.  
+  supply-chain modifications, and ensuring robustness through scenario + A|B testing.  
 o	Discovered (with another) patient vector characterizing enrollment by study intervention (SAS, factor anal.).  
 o	Developed analytics, architecture, and methods facilitating FTE hire /no hire asset profiles (log. regression).  
-o	Developed predictive models and methods for program mgmt (regression, discrete event, SQL), NASA.  
+o	Developed predictive models and methods for program mgmt (regression, discrete event, SQL) (NASA).    
 o	Generated substantial quantity of quality white papers, training courses, and professional consulting reports.  
-o	Supply chain optimization of research models ensuring supply, reduced payments, and colony reduction.  
-o	Replicated breeding characteristics of 200+ GEMM colony to reduce cost, ensure space, and husbandry.  
-o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product, SIG.  
+o	Supply chain optimization of research models ensuring supply, reduced payments, and colony reduction (Pfizer).    
+o	Replicated breeding characteristics of 200+ GEMM colony to reduce cost, ensure space, and husbandry (Pfizer).    
+o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product (SIG).    
+
+Business Owner | US Registered Farmer | CT, 2001 - 2014  
+o	Raised, trained, and sold quality large animal performance livestock. 28 units across three disciplines.  
 
 TECHNICAL SKILLS  
   o	Bayesian Analysis, LDA, Machine Learning: random forest, CNN, SVMs, Adaline, structured probabilistic,   
@@ -71,4 +74,5 @@ EDUCATION
   Bachelor of Science:  Business Administration | Babson College | Wellesley, MA  
                       Psychology | Wellesley College (inter-college degree program)
 EXTRACURRICULAR
- STEM Tutor, Amazon Mechanical Turking, Golden Key International Honour Society
+ STEM Tutor, Amazon Mechanical Turking, Golden Key International Honour Society  
+ Perform trash to treasure of quality plant shipping materials to local high school art programs  
