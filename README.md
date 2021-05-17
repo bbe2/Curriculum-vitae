@@ -47,22 +47,24 @@ Academic Research Advisor, Self-employed                                        
 Project Manager & Consultant | ProModel | Allentown, PA    2001 – 2016  
 o	Led pharma, manufacturing, and defense customers in strategy and analysis of data science solutions.  
 o	Designed numerous discrete-event environments, data pulls, dashboards, and application integration.  
-o	Focused on productivity enhancements, demand vs. capacity, resource forecasting, capital budget justification (>75M),  
+o	Focused on productivity enhancements, demand vs. capacity, resource forecasting, capital budget justification (>75M)  
   supply-chain modifications, and ensuring robustness through scenario + A|B testing.  
-o	Discovered (with another) patient vector characterizing enrollment by study intervention (SAS, factor anal.).  
+o	Discovered (with another) patient vector enrollment feature. 90% accuracy across 100 clinical trials (SAS, factor anal.).  
 o	Developed analytics, architecture, and methods facilitating FTE hire /no hire asset profiles (log. regression).  
-o	Developed predictive models and methods for program mgmt (regression, discrete event, SQL) (NASA).    
+o	Developed predictive models for program mgmt budget reallocation (regression, discrete event, SQL) (NASA).    
 o	Generated substantial quantity of quality white papers, training courses, and professional consulting reports.  
+o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product (SIG).  
+
+==> Fun with Animal Colonies & Vivariums
 o	Supply chain optimization of research models ensuring supply, reduced payments, and colony reduction (Pfizer).    
 o	Replicated breeding characteristics of 200+ GEMM colony to reduce cost, ensure space, and husbandry (Pfizer).    
-o	Designed scheduling based on Oracle sales re-prioritization of 22 BOMs of 50-200 pieces / product (SIG).    
+o	Vivarium dynamic space reallocation per in-vivo study portfolio generator.
 
 Business Owner | US Registered Farmer | CT, 2001 - 2014  
 o	Raised, trained, and sold quality large animal performance livestock. 28 units across three disciplines.  
 
 TECHNICAL SKILLS  
   o	Bayesian Analysis, LDA, Machine Learning: random forest, CNN, SVMs, Adaline, structured probabilistic,   
-   (un)structured text mining, custom NLP features, systematic literature review, AWS badge work.  
   o	ggplot2, mongoDB, SQL, plotly, Pandas, Python, R, SMSS, Tableau, TensorFlow, SciKit, Visual Studio.  
   o	Extensive experience building content, training courses, and collaborating with subject experts on focus.   
 
